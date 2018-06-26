@@ -1,3 +1,0 @@
-art==1.5
-ckanapi==4.1
-requests==2.18.4
