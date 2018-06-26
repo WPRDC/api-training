@@ -2,10 +2,15 @@
 ## A Crash Course in Using Web APIs
 
 ### Quick Start Brick Stacking
+To start the Quick Start notebook, first click this button: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WPRDC/api-training/master)
+and then click on the quick-trick-brick-stack notebook file to start it.
 
+The Jupyter notebook has code cells and documentation cells. When you first open a Jupyter notebook, none of the code has been run (though you may see the saved output from previous runs). Click on a cell to select it. Use shift-return to execute the code or just the return key to edit the code. You can also run all the code cells by choosing "Run all" under the "Cells" menu.
 
+[Here's](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf) a cheat sheet for using Jupyter notebooks, and [here's](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46) a brief tutorial.
 
 ### Other Things to Try
+Click this button to access all our sample notebooks: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WPRDC/api-training/master)
 
 #### Ideas Using WPRDC Datasets 
 * [Right-of-way Requests](https://data.wprdc.org/dataset/right-of-way-permits) ⇒ Post notification of road closures delivered to Reddit
