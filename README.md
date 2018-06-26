@@ -17,9 +17,12 @@
 * [Library locations + hours of operation](https://data.wprdc.org/dataset/libraries) ⇒  Send complementary pizzas to a random library location if it's open.
 * [City-Wide Revenues and Expenses](https://data.wprdc.org/dataset/city-revenues-and-expenses) ⇒  Build a budget ticker that shows how much the city of Pittsburgh government spent each day.
 
+### Tools
+- [JSON viewer extension for Chrome](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
+
+
 
 ### Popular Web APIs
-- [spotify](developer.spotify.com)
 
 - [CKAN API documentation](http://docs.ckan.org/en/latest/api/index.html)
   * [WPRDC CKAN instance](https://data.wprdc.org) (where you can get lots of open data)
