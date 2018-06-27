@@ -37,3 +37,22 @@ MY_PERSONAL_INFO = {
     'phone': '5555555555',  # I've only tested this without the dashes, so I recommend using that format
     'email': 'steve@youdoyou.boo'
 }
+
+
+#==============================================================================
+# Twitter API
+#==============================================================================
+# To get these keys:
+# 1. Make a Twitter account
+# 2. Sign up at https://dev.twitter.com for a developer account
+#     a. Ensure it has read/write access
+# 3. Make an new app under your development account
+# 4. Generate an access token key pair
+#
+# Then you can replace these fake values with the real ones for your account.
+TWITTER_KEYS = {
+  "access_token_key": "acCe5s70kEn",
+  "access_token_secret": "acCe5s70kEn53crEt",
+  "consumer_key": "c0n5uM3rk3Y",
+  "consumer_secret": "c0N5um3r53cR3t"
+}
