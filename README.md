@@ -41,7 +41,10 @@ Click this button to access all our sample notebooks: [![Binder](https://mybinde
 
 ### Tools
 - [JSON viewer extension for Chrome](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
-
+- [Postman](https://www.getpostman.com/) - graphical interface for exploring APIs
+- [curl](https://curl.haxx.se/) - command line interface for making HTTP requests
+- [requests](http://docs.python-requests.org/en/master/) - python library making HTTP requests
+- [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - JS methods for making HTTP requests
 
 
 ### Popular Web APIs
@@ -50,11 +53,21 @@ Click this button to access all our sample notebooks: [![Binder](https://mybinde
   * [WPRDC CKAN instance](https://data.wprdc.org) (where you can get lots of open data)
   * [Python wrapper for CKAN API](https://github.com/ckan/ckanapi)
   * [R wrapper for CKAN API](https://github.com/ropensci/ckanr)
-
+- [Port Authority TrueTime](http://truetime.portauthority.org/bustime/login.jsp) - you need to make an account to see documentation
+- [Spotify API homepage](https://developer.spotify.com/)
+  * [Documentation](https://developer.spotify.com/documentation/)
+  * [API Console](https://developer.spotify.com/console/)
+- [Twilio API Documentation](https://www.twilio.com/docs/)
+- [Reddit API Documentation](https://old.reddit.com/dev/api) - they haven't updated with their design changes, but it should still work
+  * [r/redditdev](https://www.reddit.com/r/redditdev/) - subreddit for people using reddit API
+- [Twitter API Documentation](https://developer.twitter.com/en/docs.html)
+- [World Cup API](https://worldcup.sfg.io) - made by someone on HackerNews
 
 ### Using Your Own Settings File
 For several notebooks, we use a local settings file called `settings.py` to hide our secret information during demonstartions.
 You can easily make your own by renmaing `settings-example.py` to `settings.py` and changing our fake values to your real values.
+
+In a Jupyter notebook, you can rename it by selecting the checkbox to the left of `settings-example.py` and clicking the `Rename` button in the toolbar.  You can then enter your own information into that file and you'll be good to go!
 
 In macOS and linux terminals, you can use the command below, or simple rename it like you would any other file.
 ```bash
