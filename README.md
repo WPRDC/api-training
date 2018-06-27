@@ -1,6 +1,8 @@
 # API Wizardry
 #### A Crash Course in Using Web APIs
 
+Be sure to also check out [the slides](https://docs.google.com/presentation/d/19bP_khVtanOgCmoEg8qKoLjhh01rz1TFuss12MFz96E/edit?usp=sharing) from the workshop.
+
 ## Quick Start Brick Stacking
 To start the Quick Start notebook, first click this button: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WPRDC/api-training/master)
 and then click on the `quick-trick-brick-stack.ipynb` notebook file to start it.
