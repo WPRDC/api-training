@@ -9,6 +9,23 @@ The Jupyter notebook has code cells and documentation cells. When you first open
 
 [Here's](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf) a cheat sheet for using Jupyter notebooks, and [here's](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46) a brief tutorial.
 
+### Port Authority TrueTime API
+In this notebook, you will:
+* Look up a bus stop
+* Get predicted arrival times for the next bus coming to that bus stop
+* Display the bus and the bus stop on a web map
+
+To start the Port Authority TrueTime notebook, first click this button: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WPRDC/api-training/master)
+and then click on the port-authrority-examples notebook file to start it.
+
+This API requires an API key which you can get on their [TrueTime website](http://truetime.portauthority.org/bustime/login.jsp).  You will need to create an account and request an API key from them. 
+Once you have an account, you can log in and browse the documentation.
+
+We use a local settings file in this example to protect our secret API key.
+See [Using your own settings file](#using-your-own-settings-file), to see how to make your own.
+Or you can simply supply your own API key in the code per the instructions in the notebook.
+
+
 ### Other Things to Try
 Click this button to access all our sample notebooks: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WPRDC/api-training/master)
 
@@ -33,3 +50,15 @@ Click this button to access all our sample notebooks: [![Binder](https://mybinde
   * [WPRDC CKAN instance](https://data.wprdc.org) (where you can get lots of open data)
   * [Python wrapper for CKAN API](https://github.com/ckan/ckanapi)
   * [R wrapper for CKAN API](https://github.com/ropensci/ckanr)
+
+
+### Using Your Own Settings File
+For several notebooks, we use a local settings file called `settings.py` to hide our secret information during demonstartions.
+You can easily make your own by renmaing `settings-example.py` to `settings.py` and changing our fake values to your real values.
+
+In macOS and linux terminals, you can use the command below, or simple rename it like you would any other file.
+```bash
+mv settings-example.py settings.py
+```
+
+The settings file is full of comments explaining what each variable is and how to go about changing it.

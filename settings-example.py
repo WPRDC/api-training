@@ -1,0 +1,19 @@
+# Example Settings File
+
+# In this file, we have dummy variables for secret things you'll use in the
+# various notebooks in this repo. There are sections for each notebook that
+# uses them. If you're note using a particular notebook, you won't need to
+# modify the settings in its section.
+
+# If you don't want to mess with this, you can also follow the comments in
+# the notebook you want to use to directly enter your secrets in the code.
+# We decided to use a settings file to hide our secrets during presentations.
+
+# =============================================================================
+# Port Authority TrueTime API
+# for notebook port-authority-example.ipynb
+# =============================================================================
+# You can get your own key by setting up an account at
+# http://truetime.portauthority.org/bustime/login.jsp.
+# Port Authority will email you an API key after you create the account.
+TRUE_TIME_API_KEY = 'a25characterAPIkey0101010'
