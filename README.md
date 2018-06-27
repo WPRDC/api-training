@@ -11,6 +11,8 @@ The Jupyter notebook has code cells and documentation cells. When you first open
 
 [Here's](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf) a cheat sheet for using Jupyter notebooks, and [here's](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46) a brief tutorial.
 
+Also you may be interested in [keyboard shortcuts for Jupyter notebooks](https://gist.github.com/kidpixo/f4318f8c8143adee5b40).
+
 ## Cat API
 This is a simple example to demonstrate how `requests` works and how to make `GET` requests.
 
