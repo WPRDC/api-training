@@ -1,6 +1,8 @@
 # API Wizardry
 #### A Crash Course in Using Web APIs
 
+Be sure to also check out [the slides](https://docs.google.com/presentation/d/19bP_khVtanOgCmoEg8qKoLjhh01rz1TFuss12MFz96E/edit?usp=sharing) from the workshop.
+
 ## Quick Start Brick Stacking
 To start the Quick Start notebook, first click this button: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WPRDC/api-training/master)
 and then click on the `quick-trick-brick-stack.ipynb` notebook file to start it.
@@ -51,6 +53,13 @@ We use a local settings file in this example to protect our secret API key.
 See [Using your own settings file](#using-your-own-settings-file), to see how to make your own.
 Or you can simply supply your own API key in the code per the instructions in the notebook.
 
+## Twitter Bot Demo
+This notebook collects crime data from the [WPRDC](https://www.wprdc.org) and tweets a message about it.
+
+To start the Port Authority TrueTime notebook, first click this button: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WPRDC/api-training/master)
+and then click on the `twitter_bot_demo.ipynb` notebook file to start it.
+
+The Twitter API requires API keys.  Please follow [their documentation](https://developer.twitter.com/en/docs.html) to find out how to get some.
 
 ## Other Things to Try
 Click this button to access all our sample notebooks: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WPRDC/api-training/master)
