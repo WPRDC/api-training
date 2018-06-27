@@ -65,6 +65,8 @@ Click this button to access all our sample notebooks: [![Binder](https://mybinde
 * [Library locations + hours of operation](https://data.wprdc.org/dataset/libraries) ⇒  Send complementary pizzas to a random library location if it's open.
 * [City-Wide Revenues and Expenses](https://data.wprdc.org/dataset/city-revenues-and-expenses) ⇒  Build a budget ticker that shows how much the city of Pittsburgh government spent each day.
 
+* Factoid factory: Combine facts culled from different WPRDC datasets and post a new one to Twitter every day or every hour or at random intervals.
+
 ## Tools
 - [JSON viewer extension for Chrome](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
 - [Postman](https://www.getpostman.com/) - graphical interface for exploring APIs
