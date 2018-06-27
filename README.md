@@ -89,6 +89,14 @@ Click this button to access all our sample notebooks: [![Binder](https://mybinde
 - [Twitter API Documentation](https://developer.twitter.com/en/docs.html)
 - [World Cup API](https://worldcup.sfg.io) - made by someone on HackerNews
 
+
+## Online Resources
+- [WPRDC](https://www.wprdc.org)
+- [Mozilla's HTTP overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [OAuth 2.0 Docs](https://oauth.net/2/)
+- [REST Wikipedia article](https://en.wikipedia.org/wiki/Representational_state_transfer) - a special class of web APIs
+
+
 ## Using Your Own Settings File
 For several notebooks, we use a local settings file called `settings.py` to hide our secret information during demonstartions.
 You can easily make your own by renmaing `settings-example.py` to `settings.py` and changing our fake values to your real values.
