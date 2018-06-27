@@ -1,2 +1,8 @@
 env/
 venv/
+.idea/
+
+*.pyc
+
+# Super Secret Stuff
+settings.py
