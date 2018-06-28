@@ -4,7 +4,7 @@ When we gave this workshop, we asked the audience "What kind of APIs do you hope
 Book data  
 Dog Tinder  
 NOAA  
-I want to make Twitter bots {Great! We have [a Jupyter notebook](https://github.com/WPRDC/api-training/blob/master/twitter_bot_demo.ipynb) to get you started.}  
+I want to make Twitter bots **{Great! We have [a Jupyter notebook](https://github.com/WPRDC/api-training/blob/master/twitter_bot_demo.ipynb) to get you started.}**  
 Lead pipes in the area  
 Sensor data from cars  
 What does Google know about me?  
@@ -22,7 +22,7 @@ Ticketing systems
 Mine Google searches  
 Pittsburgh start-ups  
 Voter registration  
-Weather (x2) {There's a bunch of APIs that will give you weather data/forecasts. Virtually all require API keys and most have limits on how fast you can pull data. The [Dark Sky API](https://darksky.net/dev) is one we can recommend, as it's nice, quite accurate, and currently allows 1000 free API calls per day.}  
+Weather (x2) **{There's a bunch of APIs that will give you weather data/forecasts. Virtually all require API keys and most have limits on how fast you can pull data. The [Dark Sky API](https://darksky.net/dev) is one we can recommend, as it's nice, quite accurate, and currently allows 1000 free API calls per day.}**  
 Twitter bots but also computational biology visualization tools  
 Where are they testing autonomous cars?  
 GitHub  
