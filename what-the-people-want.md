@@ -22,8 +22,8 @@ Ticketing systems
 Mine Google searches
 Pittsburgh start-ups
 Voter registration
-Weather
-Twitter bots but also computational biology visualization tools.
+Weather (x2) {There's a bunch of APIs that will give you weather data/forecasts. Virtually all require API keys and most have limits on how fast you can pull data. The [Dark Sky API](https://darksky.net/dev) is one we can recommend, as it's nice, quite accurate, and currently allows 1000 free API calls per day.}
+Twitter bots but also computational biology visualization tools
 Where are they testing autonomous cars?
 GitHub
 What did my neighbor just Google?
@@ -44,7 +44,6 @@ Health care automation for scheduling purposes
 API for scheduling health-care appointments (x2)
 Voter registration
 Stormwater simulation
-Sent it a picture, tell me what it is a picture of
+Send it a picture, tell me what it is a picture of
 Create running routes based on Strava/MapMyRun/GoogleMaps data
-Weather
 Sports scores
