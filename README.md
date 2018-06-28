@@ -69,7 +69,7 @@ Feel free to tweet all your results and API outputs to a special account we set 
 Click this button to access all our sample notebooks: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WPRDC/api-training/master)
 
 ### Ideas Using WPRDC Datasets 
-* [Right-of-way Requests](https://data.wprdc.org/dataset/right-of-way-permits) ⇒ Post notification of road closures delivered to Reddit
+* [Right-of-way Permits](https://data.wprdc.org/dataset/right-of-way-permits) ⇒ Post notification of road closures delivered to Reddit
 * [Arrests](https://data.wprdc.org/dataset/arrest-data)/[Non-traffic citations](https://data.wprdc.org/dataset/non-traffic-citations)/[Police blotter](https://data.wprdc.org/dataset/police-incident-blotter) (updates daily) ⇒  Daily crime report for your neighborhood by Twitter
 * [Fire incidents](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh) (updates daily) ⇒  Notification of all of yesterday's five-alarm fires in Pittsburgh
 * [BigBurgh Social Services Listings](https://data.wprdc.org/dataset/bigburgh-social-service-listings) (updates monthly) ⇒  Post local social services and relevant events to Reddit
