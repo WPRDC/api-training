@@ -2,6 +2,7 @@ When we gave this workshop, we asked the audience "What kind of APIs do you hope
   
   
 Book data  
+> **There's many APIs where you can look up information about books based on ISBNs or other identifiers. The [Open Library](https://openlibrary.org/about) is one of the Internet Archive's projects, and (like Wikipedia), it's content is user-contributed. You don't need an API key to request information from the [Open Library API](https://openlibrary.org/dev/docs/api/books). If the book is in the public domain and Project Gutenberg has digitized it, you'll find a Project Gutenberg identifier in the API response, which lets you locate freely available online version of the book. [This blog post](https://bbvaopen4u.com/en/actualidad/apis-books-amazon-google-books-isbn-and-their-open-apis) discusses the book APIs that you can use from ISBNdb.com, Google Books, and Amazon.**  
 Dog Tinder  
 NOAA  
 I want to make Twitter bots  
@@ -41,6 +42,7 @@ Building permit dataset on WPRDC
 ADA compliance  
 API for lost-and-found items  
 API with the best rate/price for an item  
+> **The ISBNdb API apparently provides price comparison for books.**  
 API that lists restaurants with ratings/reviews  
 Routes based on road quality  
 Where can I park?  
