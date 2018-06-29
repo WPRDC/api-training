@@ -52,7 +52,7 @@ API with the best rate/price for an item
 > **[The ISBNdb API](https://isbndb.com/apidocs) apparently provides price comparison for books.**  
 
 API that lists restaurants with ratings/reviews  
-> **It should be possible to get this information through [Yelp's API], though as we mentioned in the workshop, read the terms of use, as there are sure to be restrictions on what you can do with that information.** 
+> **It should be possible to get this information through [Yelp's API](https://www.yelp.com/developers/documentation/v3), though as we mentioned in the workshop, read the terms of use, as there are sure to be restrictions on what you can do with that information.** 
 
 Routes based on road quality  
 Where can I park?  
