@@ -20,7 +20,6 @@ Air quality
 > **We actually have a [sample notebook about using WPRDC data on local air quality](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/air-quality-exploration.ipynb), too. Another great resource is the Environmental Protection Agency's [AirNow site](https://www.airnow.gov/) which has [an API](https://docs.airnowapi.org/) that lets you pull historical air-quality measurements, current measurements, forecasts by ZIP code or latitude/longitude, and even contour maps of air quality.**  
 
 Restaurants data  
-
 Happy hours  
 Census & federal data  
 > **For Census data, we can recommend [the Census Bureau's CitySDK](https://uscensusbureau.github.io/citysdk/), and its [query builder](https://uscensusbureau.github.io/citysdk/developers/queryBuilder/), and also [the Datamade Python wrapper for the Census API](https://github.com/datamade/census) as useful tools. Be forewarned: For the uninitiated, the way the Census groups and organizes its data may seem byzantine and very different from the other kinds of data structures you'll see from more recently developed data sources.**  
