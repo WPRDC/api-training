@@ -18,7 +18,7 @@ Air quality
 Restaurants data  
 Happy hours  
 Census & federal data  
-Air quality  
+> **For Census data, we can recommend [the Census Bureau's CitySDK](https://uscensusbureau.github.io/citysdk/), and its [query builder](https://uscensusbureau.github.io/citysdk/developers/queryBuilder/), and also [the Datamade Python wrapper for the Census API](https://github.com/datamade/census) as useful tools. Be forewarned: For the uninitiated, the way the Census groups and organizes its data may seem byzantine and very different from the other kinds of data structures you'll see from more recently developed data sources.  
 Deliver me food  
 Fire calls  
 Library history  
