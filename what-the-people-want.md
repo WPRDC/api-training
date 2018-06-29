@@ -1,4 +1,4 @@
-When we gave this workshop, we asked the audience "What kind of APIs do you hope exist, or know exist and want to know more about?", and asked them to discuss ideas with their neighbors. This is an annotated version of the answers we got, with our comments in bold.  
+When we gave this workshop, we asked the audience "What kind of APIs do you hope exist, or know exist and want to know more about?", and asked them to discuss ideas with their neighbors. We got a lot of interesting answers and hope that after our workshop, people from the audience are better equipped to start exploring their ideas. Below is an annotated version of the answers we got, with our comments in bold.  
   
   
 Book data  
