@@ -9,9 +9,11 @@ NOAA
 I want to make Twitter bots  
 > **Great! We have [a Jupyter notebook](https://github.com/WPRDC/api-training/blob/master/twitter_bot_demo.ipynb) to get you started.**  
 
-Lead pipes in the area  
 Sensor data from cars  
 What does Google know about me?  
+Lead pipes in the area 
+> **We're not aware of any open data or data available through an API about the locations of lead pipes in Allegheny County, but the PWSA has published [a map showing the results of their inspections, indicating which lines are and are not made of lead](http://www.pgh2o.com/leadmap). To see the information about whether individual parcels have lead lines, either zoom in on [this map](https://www.arcgis.com/home/webmap/viewer.html?webmap=1aae14d661b94ba0906aaba0d0f9108f&extent=-80.2031,40.3187,-79.7427,40.5249) to the parcel level or search for a particular address.  
+
 Mascots  
 Info about animal hybrids  
 Air quality  
