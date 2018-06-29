@@ -3,6 +3,7 @@ When we gave this workshop, we asked the audience "What kind of APIs do you hope
   
 Book data  
 > **There's many APIs where you can look up information about books based on ISBNs or other identifiers. The [Open Library](https://openlibrary.org/about) is one of the Internet Archive's projects, and (like Wikipedia), it's content is user-contributed. You don't need an API key to request information from the [Open Library API](https://openlibrary.org/dev/docs/api/books). If the book is in the public domain and Project Gutenberg has digitized it, you'll find a Project Gutenberg identifier in the API response, which lets you locate freely available online version of the book. [This blog post](https://bbvaopen4u.com/en/actualidad/apis-books-amazon-google-books-isbn-and-their-open-apis) discusses the book APIs that you can use from ISBNdb.com, Google Books, and Amazon.**  
+
 Dog Tinder  
 NOAA  
 I want to make Twitter bots  
@@ -20,6 +21,7 @@ Restaurants data
 Happy hours  
 Census & federal data  
 > **For Census data, we can recommend [the Census Bureau's CitySDK](https://uscensusbureau.github.io/citysdk/), and its [query builder](https://uscensusbureau.github.io/citysdk/developers/queryBuilder/), and also [the Datamade Python wrapper for the Census API](https://github.com/datamade/census) as useful tools. Be forewarned: For the uninitiated, the way the Census groups and organizes its data may seem byzantine and very different from the other kinds of data structures you'll see from more recently developed data sources.**  
+
 Deliver me food  
 Fire calls  
 Library history  
@@ -37,6 +39,7 @@ What did my neighbor just Google?
 API for individuals rating similar to credit score  
 Restaurant health inspection results  
 > **The WPRDC has a subset of this information for Allegheny County: We have all of the [food-facility inspection results where violations were reported](https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations), updated on a regular basis. It would definitely be convenient to have this information in a more readily accessible form, so that if I'm thinking of going to a restaurant or about to walk into one, I can easily check the restaurant for recently reported food-safety problems.**  
+
 Amazon  
 Price-compare grocery store items (pull data from Target, Giant Eagle, etc.)  
 Building permit dataset on WPRDC  
@@ -44,6 +47,7 @@ ADA compliance
 API for lost-and-found items  
 API with the best rate/price for an item  
 > **The ISBNdb API apparently provides price comparison for books.**  
+
 API that lists restaurants with ratings/reviews  
 Routes based on road quality  
 Where can I park?  
