@@ -13,6 +13,8 @@ What does Google know about me?
 Mascots  
 Info about animal hybrids  
 Air quality  
+> **We actually have a [sample notebook about using WPRDC data on local air quality](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/air-quality-exploration.ipynb), too. Another great resource is the Environmental Protection Agency's [AirNow site](https://www.airnow.gov/) which has [an API](https://docs.airnowapi.org/) that lets you pull historical air-quality measurements, current measurements, forecasts by ZIP code or latitude/longitude, and even contour maps of air quality.  
+
 Restaurants data  
 Happy hours  
 Census & federal data  
