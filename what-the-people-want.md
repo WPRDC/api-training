@@ -36,6 +36,7 @@ GitHub
 What did my neighbor just Google?  
 API for individuals rating similar to credit score  
 Restaurant health inspection results  
+> **The WPRDC has a subset of this information for Allegheny County: We have all of the [food-facility inspection results where violations were reported](https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations), updated on a regular basis. It would definitely be convenient to have this information in a more readily accessible form, so that if I'm thinking of going to a restaurant or about to walk into one, I can easily check the restaurant for recently reported food-safety problems.**  
 Amazon  
 Price-compare grocery store items (pull data from Target, Giant Eagle, etc.)  
 Building permit dataset on WPRDC  
