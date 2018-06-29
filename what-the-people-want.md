@@ -46,7 +46,7 @@ Building permit dataset on WPRDC
 ADA compliance  
 API for lost-and-found items  
 API with the best rate/price for an item  
-> **The ISBNdb API apparently provides price comparison for books.**  
+> **[The ISBNdb API](https://isbndb.com/apidocs) apparently provides price comparison for books.**  
 
 API that lists restaurants with ratings/reviews  
 Routes based on road quality  
