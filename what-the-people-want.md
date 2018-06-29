@@ -18,12 +18,15 @@ Air quality
 > **We actually have a [sample notebook about using WPRDC data on local air quality](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/air-quality-exploration.ipynb), too. Another great resource is the Environmental Protection Agency's [AirNow site](https://www.airnow.gov/) which has [an API](https://docs.airnowapi.org/) that lets you pull historical air-quality measurements, current measurements, forecasts by ZIP code or latitude/longitude, and even contour maps of air quality.**  
 
 Restaurants data  
+
 Happy hours  
 Census & federal data  
 > **For Census data, we can recommend [the Census Bureau's CitySDK](https://uscensusbureau.github.io/citysdk/), and its [query builder](https://uscensusbureau.github.io/citysdk/developers/queryBuilder/), and also [the Datamade Python wrapper for the Census API](https://github.com/datamade/census) as useful tools. Be forewarned: For the uninitiated, the way the Census groups and organizes its data may seem byzantine and very different from the other kinds of data structures you'll see from more recently developed data sources.**  
 
 Deliver me food  
 Fire calls  
+> **The WPRDC has [records of fire incidents for the city of Pittsburgh](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh), and that data can be downloaded and queried through our API.**  
+
 Library history  
 Ticketing systems  
 Mine Google searches  
@@ -49,6 +52,8 @@ API with the best rate/price for an item
 > **[The ISBNdb API](https://isbndb.com/apidocs) apparently provides price comparison for books.**  
 
 API that lists restaurants with ratings/reviews  
+> **It should be possible to get this information through [Yelp's API], though as we mentioned in the workshop, read the terms of use, as there are sure to be restrictions on what you can do with that information.** 
+
 Routes based on road quality  
 Where can I park?  
 More neighborhood-level data  
