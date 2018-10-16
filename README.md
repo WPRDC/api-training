@@ -77,6 +77,7 @@ Click this button to access all our sample notebooks: [![Binder](https://mybinde
 * [311 Data](https://data.wprdc.org/dataset/311-data) (updates every 10 minutes) ⇒ Generate Spotify list inspired by recent 311 complaints
 * [Library locations + hours of operation](https://data.wprdc.org/dataset/libraries) ⇒  Send complementary pizzas to a random library location if it's open.
 * [City-Wide Revenues and Expenses](https://data.wprdc.org/dataset/city-revenues-and-expenses) ⇒  Build a budget ticker that shows how much the city of Pittsburgh government spent each day.
+* Restaurant Roulette ⇒ Randomly choose a [restaurant](https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations) for the user to go to, based on their location and aversion to [food-safety violations](https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations).
 
 * Factoid factory: Combine facts culled from different WPRDC datasets and post a new one to Twitter every day or every hour or at random intervals.
 
