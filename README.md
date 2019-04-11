@@ -46,7 +46,7 @@ In this notebook, you will:
 * Display the bus and the bus stop on a web map
 
 To start the Port Authority TrueTime notebook, first click this button: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WPRDC/api-training/master)
-and then click on the `port-authrority-examples.ipynb` notebook file to start it.
+and then click on the `port-authority-examples.ipynb` notebook file to start it.
 
 This API requires an API key which you can get on their [TrueTime website](http://truetime.portauthority.org/bustime/login.jsp).  You will need to create an account and request an API key from them. 
 Once you have an account, you can log in and browse the documentation.
